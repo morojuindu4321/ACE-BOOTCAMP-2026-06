@@ -1,3 +1,4 @@
+
 s = set()
 for i in range(5):
     s.add(int(input("Enter element: ")))
@@ -19,4 +20,5 @@ print("Length:", len(s))
 print("Max:", max(s))
 print("Min:", min(s))
 print("Sum:", sum(s))
+s.clear()
 print("After Clear:", s)
