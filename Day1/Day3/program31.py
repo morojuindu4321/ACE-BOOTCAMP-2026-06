@@ -1,0 +1,17 @@
+student = {"name": "INDU", "age": 25, "course": "Python"}
+print("clear:", student.clear()) 
+student = {"name": "INDU", "age": 25, "course": "Python"}
+print("pop:", student.pop("age"))  
+print("keys:", student.keys())     
+student.update({"grade": "A"})
+print("update:", student)         
+new_dict = dict.fromkeys(["a", "b", "c"], 0)
+print("fromkeys:", new_dict)       
+copy_dict = student.copy()
+print("copy:", copy_dict)          
+print("get:", student.get("name")) 
+print("setdefault:", student.setdefault("age", 26)) 
+print("values:", student.values())
+print("items:", student.items())  
+print("popitem:", student.popitem())
+print("after popitem:", student)
