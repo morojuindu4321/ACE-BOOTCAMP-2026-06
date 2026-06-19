@@ -20,8 +20,8 @@ result = []
 for i in range(rows):
     row = []
     for j in range(cols):
-        row.append(matrix1[i][j] + matrix2[i][j])
+        row.append(matrix1[i][j] - matrix2[i][j])
     result.append(row)
-print("Addition of Matrices:")
+print("Subtraction of Matrices:")
 for row in result:
     print(row)
