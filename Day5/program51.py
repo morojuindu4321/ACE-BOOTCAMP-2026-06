@@ -1,0 +1,6 @@
+f=open("/workspaces/ACE-BOOTCAMP-2026-06/Day5/program52.py","r+")
+f.write("a=123\nprint(a)")
+f.seek(0)
+print(f.read())
+print("File name:",f.name)
+print(f.tell())
