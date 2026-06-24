@@ -1,0 +1,27 @@
+import numpy as np
+arr=np.array([[1,2],
+                [2,3]])
+arr1=np.array([[2,5],
+              [3,4]])
+print("Additionis \n:" ,arr+arr1)
+print("Multiplication is \n:" ,arr@arr1)
+print("Multiplication is \n:",np.matmul(arr,arr1))
+print(np.mean(arr))
+print(np.mean(arr1))
+print(np.std(arr))
+print(np.std(arr1))
+print(np.var(arr))
+print(np.var(arr1))
+print(np.min(arr))
+print(np.min(arr1))
+print(np.max(arr))
+print(np.max(arr1))
+print(np.argmin(arr))
+print(np.argmin(arr1))
+print(np.argmax(arr))
+print(np.argmax(arr1))
+print(np.median(arr))
+print(np.median(arr1))
+print(np.sqrt((np.std(arr))))
+print(np.sqrt((np.std(arr1))))
+
