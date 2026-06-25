@@ -1,0 +1,11 @@
+Brand,Model,Year,Mileage_kmpl,Engine_CC,Horsepower,Fuel_Type,Transmission,Owner_Type,Color,City,Kms_Driven,Insurance_Valid,Service_History,Accidents,Tax_Paid,Number_of_Doors,Seats,Registration_Age,Price
+Toyota,Camry,2001,14.5,1800,140,Petrol,Manual,First,Black,Delhi,120000,1,1,0,15000,4,5,24,353189.6
+Hyundai,i20,2012,18.2,1197,82,Petrol,Manual,First,White,Mumbai,60000,1,1,0,12000,4,5,13,959694.3
+Mahindra,Bolero,2008,12.8,2523,104,Diesel,Manual,Second,Silver,Chennai,98000,1,0,1,8000,5,7,17,292022.9
+BMW,X1,2015,16.0,1995,190,Diesel,Automatic,First,Blue,Hyderabad,45000,1,1,0,20000,4,5,10,2949453.0
+Honda,Civic,2022,17.8,1498,126,Petrol,Automatic,First,Red,Bengaluru,15000,1,1,0,18000,4,5,3,636520.8
+Toyota,Camry,2007,13.9,1798,136,Petrol,Manual,Second,Silver,Pune,80000,1,0,1,10000,4,5,18,519519.5
+Hyundai,i20,2014,15.3,1197,85,Petrol,Manual,First,Gray,Jaipur,70000,1,1,0,14000,4,5,11,495319.1
+Hyundai,Creta,2001,11.8,1497,110,Diesel,Manual,Third,White,Ahmedabad,150000,0,0,2,5000,4,5,24,50000.0
+Volkswagen,Taigun,2020,18.5,1498,115,Petrol,Automatic,First,Black,Delhi,25000,1,1,0,22000,4,5,5,1045347.3
+Audi,A4,2009,14.0,1798,140,Diesel,Automatic,Second,Silver,Mumbai,90000,1,0,1,16000,4,5,16,263330.9
